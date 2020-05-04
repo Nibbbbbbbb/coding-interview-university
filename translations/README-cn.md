@@ -156,6 +156,8 @@
 
 - Google 的工程师都是才智过人的。但是，就算是工作在 Google 的他们，仍然会因为觉得自己不够聪明而感到一种不安。
 - [天才程序员的神话](https://www.youtube.com/watch?v=0SARbwvhupQ)
+// Bus factor 巴士因子
+// iteration-failure cycle 失败迭代周期 越快，成长越快，不要害怕失败
 
 ## 关于 Google
 
