@@ -158,7 +158,11 @@
 
 - [天才程序员的神话](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
-  // Bus factor 巴士因子
+  // 没有天才
+
+  // Bus factor 巴士因子 （可靠文档/代码注释/设计文档/一般文档/代码审查）
+
+  // 成为一条小鱼，踏出舒适圈才能进步
 
   // iteration-failure cycle 失败迭代周期 越快，成长越快，不要害怕失败
 
