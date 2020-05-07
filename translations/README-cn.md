@@ -320,7 +320,7 @@
 ## 必备知识
 
 - [ ] **计算机是如何处理一段程序：**
-    - [ ] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [ ] [CPU 是如何执行代码（视频）](https://www.youtube.com/watch?v=42KTvGYQYnA) // 视频丢失
     - [ ] [机器码指令（视频）](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 - [ ] **编译器**
@@ -335,25 +335,45 @@
 
 ## 算法复杂度 / Big-O / 渐进分析法
 - 并不需要实现
-- [ ] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+
+- [x] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+
+- [x] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
+    - [ ] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)  // 老视频，生肉啃不动
+
 - [ ] Skiena 算法：
     - [视频](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [幻灯片](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
-- [ ] [对于算法复杂度分析的一次详细介绍](http://discrete.gr/complexity/)
-- [ ] [增长阶数（Orders of Growth）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/59)
-- [ ] [渐进性（Asymptotics）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/61)
-- [ ] [UC Berkeley Big O（视频）](https://youtu.be/VIS4YDpuP98)
-- [ ] [UC Berkeley Big Omega（视频）](https://youtu.be/ca3e7UVmeUc)
+    
+- [x] [对于算法复杂度分析的一次详细介绍](http://discrete.gr/complexity/) 
+
+- [ ] [增长阶数（Orders of Growth）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/59) // coursera注册不了课程
+
+- [ ] [渐进性（Asymptotics）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/61) // coursera注册不了课程
+
+- [ ] [UC Berkeley Big O（视频）](https://youtu.be/VIS4YDpuP98) // 私享视频
+
+- [ ] [UC Berkeley Big Omega（视频）](https://youtu.be/ca3e7UVmeUc) // 私享视频
+
 - [ ] [平摊分析法（Amortized Analysis）（视频）](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] [举证“Big O”（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/63)
-- [ ] 高级编程（包括递归关系和主定理）：
+
+- [ ] [举证“Big O”（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/63)//coursera注册不了课程
+
+- [x] 高级编程（包括递归关系和主定理）：
     - [计算性复杂度：第一部](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [计算性复杂度：第二部](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
-- [ ] [速查表（Cheat sheet）](http://bigocheatsheet.com/)
+    
+- [x] [速查表（Cheat sheet）](http://bigocheatsheet.com/)
 
     如果部分课程过于学术性，你可直接跳到文章底部，去查看离散数学的视频以获取相关背景知识。
+    
+- [x] // 数据结构与算法之美 - 王争 - 复杂度分析1、2
+
+    // 渐进复杂度 从低阶到高阶有：O(1)、O(logn)、O(n)、O(nlogn)、O(n2)。（少见的有O(m+n)、O(m*n)）
+
+    // 最好、最坏情况时间复杂度 ，平均情况时间复杂度，均摊时间复杂度（个人认为，均摊时间复杂度就是一种特殊的平均时间复杂度）
+
+    
 
 ## 数据结构
 
