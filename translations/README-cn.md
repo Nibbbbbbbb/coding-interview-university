@@ -339,8 +339,9 @@
 - [x] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 
 - [x] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
-    - [ ] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)  // 老视频，生肉啃不动
-
+    
+- [ ] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)  // 老视频，生肉啃不动
+    
 - [ ] Skiena 算法：
     - [视频](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [幻灯片](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
@@ -369,9 +370,9 @@
     
 - [x] // 数据结构与算法之美 - 王争 - 复杂度分析1、2
 
-    // 渐进复杂度 从低阶到高阶有：O(1)、O(logn)、O(n)、O(nlogn)、O(n2)。（少见的有O(m+n)、O(m*n)）
+    ​	// 渐进复杂度 从低阶到高阶有：O(1)、O(logn)、O(n)、O(nlogn)、O(n2)。（少见的有O(m+n)、O(m*n)）
 
-    // 最好、最坏情况时间复杂度 ，平均情况时间复杂度，均摊时间复杂度（个人认为，均摊时间复杂度就是一种特殊的平均时间复杂度）
+    ​	// 最好、最坏情况时间复杂度 ，平均情况时间复杂度，均摊时间复杂度（个人认为，均摊时间复杂度就是一种特殊的平均时间复杂度）
 
     
 
