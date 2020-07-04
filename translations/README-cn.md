@@ -162,18 +162,20 @@
 
   // Bus factor 巴士因子 （可靠文档/代码注释/设计文档/一般文档/代码审查）
 
+  // 意味着团队中的信息分享度、合作度和默契程度，以及整个团队的补位能力。
+
   // 成为一条小鱼，踏出舒适圈才能进步
 
   // iteration-failure cycle 失败迭代周期 越快，成长越快，不要害怕失败
 
   
-
+  
   
 
 ## 关于 Google
 
 - [ ] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [x] Google 检索的原理：
+- [ ] Google 检索的原理：
     - [ ] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [ ] [Google 检索的原理 —— 故事篇](https://www.google.com/insidesearch/howsearchworks/thestory/)
     - [ ] [Google 检索的原理](https://www.google.com/insidesearch/howsearchworks/)
@@ -209,6 +211,21 @@
 
 - [ ] 附加的（虽然 Google 不建议，但我还是添加在此）：
     - [x] [ABC：永远都要去编程（Always Be Coding）](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+    
+        // - ABC（始终编码） 编写的代码越多，获得的效果就越好。最佳实践是*集中练习*。牢记目标，探索新领域并挑战自己
+    
+        // - 掌握至少一种多范式语言。掌握一种语言可以使您有很大的洞察力。为此，必须编写大量代码，阅读更多内容，并学习陷阱和最佳实践。
+    
+        // - 了解复杂度
+    
+        // - 重新发明轮子
+    
+        // - 解决面试题
+        
+        // - 使编码变得容易。至少使它看起来容易
+    
+    
+    
     - [x] [四步成为 Google 里一名没有学位的员工](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
     - [x] [共享白板（Whiteboarding）](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
     - [ ] [Google 是如何看待应聘、管理和公司文化](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
@@ -339,9 +356,9 @@
 - [x] [Harvard CS50 —— 渐进表示（视频）](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 
 - [x] [Big O 记号（通用快速教程）（视频）](https://www.youtube.com/watch?v=V6mKVRU1evU)
-    
+  
 - [ ] [Big O 记号（以及 Omega 和 Theta）——  最佳数学解释（视频）](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)  // 老视频，生肉啃不动
-    
+  
 - [ ] Skiena 算法：
     - [视频](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
     - [幻灯片](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
