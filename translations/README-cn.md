@@ -365,9 +365,9 @@
     
 - [x] [对于算法复杂度分析的一次详细介绍](http://discrete.gr/complexity/) 
 
-- [ ] [增长阶数（Orders of Growth）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/59) // coursera注册不了课程
+- [ ] [增长阶数（Orders of Growth）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/59) // coursera
 
-- [ ] [渐进性（Asymptotics）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/61) // coursera注册不了课程
+- [ ] [渐进性（Asymptotics）（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/61) // coursera
 
 - [ ] [UC Berkeley Big O（视频）](https://youtu.be/VIS4YDpuP98) // 私享视频
 
@@ -375,7 +375,7 @@
 
 - [ ] [平摊分析法（Amortized Analysis）（视频）](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 
-- [ ] [举证“Big O”（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/63)//coursera注册不了课程
+- [ ] [举证“Big O”（视频）](https://class.coursera.org/algorithmicthink1-004/lecture/63)//coursera
 
 - [x] 高级编程（包括递归关系和主定理）：
     - [计算性复杂度：第一部](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
